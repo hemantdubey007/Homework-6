@@ -1,0 +1,38 @@
+#home-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 3rem;
+    margin-top: 4rem;
+    border-bottom: 1px solid black;
+    font-size: large;
+    font-weight: lighter;
+}
+
+#footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem;
+}
+
+#total-container{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+button{
+    padding: 0.4rem 1rem;
+    border-radius: 0.625rem;
+    color: #ffffff;
+    background-color: #0000ff;
+    border: none;
+    cursor: pointer;
+}

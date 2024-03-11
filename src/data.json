@@ -1,0 +1,28 @@
+{
+    "phone_data":[
+        {
+            "img_url":"https://www.course-api.com/images/cart/phone-1.png",
+            "name":"Samsung Galaxy S8 Ultra",
+            "price":400,
+            "quantity":0
+        },
+        {
+            "img_url":"https://www.course-api.com/images/cart/phone-2.png",
+            "name":"Google Pixel",
+            "price":450,
+            "quantity":0
+        },
+        {
+            "img_url":"https://www.course-api.com/images/cart/phone-3.png",
+            "name":"Xiaomi Redmi Note 2",
+            "price":700,
+            "quantity":0
+        },
+        {
+            "img_url":"https://www.course-api.com/images/cart/phone-4.png",
+            "name":"Samsung Galaxy S7",
+            "price":600,
+            "quantity":0
+        }
+    ]
+}
